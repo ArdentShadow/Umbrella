@@ -1,2 +1,1 @@
-# Umbrella
-This is a manually cloned thing
+# E-commerce Back End Starter Code
